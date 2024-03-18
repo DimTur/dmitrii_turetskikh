@@ -6,7 +6,8 @@
 
 ### My stack
 
-Python, Django, SQL, Flask, Asyncio, Docker-compose, Pandas, Git
+Python, FastAPI, Django, Django REST framework, PostgreSQL, Docker, Docker-compose, Redis, Celery, RabbitMQ,
+SQLAlchemy, Asyncio Linux
 
 ### Achievements
 🏆 III place in the Olympiad in data analytics
